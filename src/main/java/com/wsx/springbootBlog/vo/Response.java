@@ -1,10 +1,9 @@
-package com.waylau.spring.boot.blog.vo;
+package com.wsx.springbootBlog.vo;
 
 /**
  * 响应 值对象.
  * 
- * @since 1.0.0 2017年4月4日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * wsx
  */
 public class Response {
 	

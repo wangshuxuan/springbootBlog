@@ -1,9 +1,10 @@
-package com.waylau.spring.boot.blog.vo;
+package com.wsx.springbootBlog.vo;
 
+
+import com.wsx.springbootBlog.domain.Catalog;
 
 import java.io.Serializable;
 
-import com.waylau.spring.boot.blog.domain.Catalog;
 
 public class CatalogVO implements Serializable {
  

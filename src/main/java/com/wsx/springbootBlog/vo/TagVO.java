@@ -1,4 +1,4 @@
-package com.waylau.spring.boot.blog.vo;
+package com.wsx.springbootBlog.vo;
 
 
 import java.io.Serializable;
@@ -6,8 +6,7 @@ import java.io.Serializable;
 /**
  * Tag 值对象.
  * 
- * @since 1.0.0 2017年4月13日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * @wsx
  */
 public class TagVO implements Serializable {
  

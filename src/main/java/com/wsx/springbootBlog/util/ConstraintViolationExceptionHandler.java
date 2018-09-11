@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.waylau.spring.boot.blog.util;
+package com.wsx.springbootBlog.util;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,7 +12,7 @@ import javax.validation.ConstraintViolationException;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author Administrator
+ * @author wsx
  *
  */
 public class ConstraintViolationExceptionHandler {

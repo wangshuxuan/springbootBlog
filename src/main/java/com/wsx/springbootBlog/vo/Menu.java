@@ -1,12 +1,11 @@
-package com.waylau.spring.boot.blog.vo;
+package com.wsx.springbootBlog.vo;
 
 import java.io.Serializable;
 
 /**
  * 菜单 值对象.
  * 
- * @since 1.0.0 2017年3月30日
- * @author <a href="https://waylau.com">Way Lau</a> 
+ * wsx
  */
 public class Menu implements Serializable{
  
